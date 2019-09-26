@@ -1,3 +1,11 @@
 # Description of your program (part 7)
-
+To count all the words in a document, I would keep a variable called counter which starts at zero,
+and parse through the text on the document by looking for spaces. Assuming each word is separated
+by one space, and words with dashes are considered as one word, I think this would work pretty well.
 # Reflection on writing your program (part 8)
+I wouldn't say the exercise was hard, but maybe a little confusing since I've never written a program
+in English before and I'm not sure what the expectation is. It's hard since it seems more natural to
+write in code (which I can't believe I'm saying), but it helps me see how coding can be more articulate
+that a non-coding language. I don't know exactly what I want to get out of this class, I already am
+semi-interested in Python and I think it's very useful, although coding is pretty hard for me in general.
+I'd love the chance to work on a bigger project that I could continue after this course as well.
